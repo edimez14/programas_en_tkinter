@@ -1,5 +1,5 @@
 # programas en tkinter
-en este repositorio se podra encontrar diferentes practicas realizadas con la libreriria de python tkinter
+en este repositorio se podra encontrar diferentes practicas realizadas con la libreriria de python tkinter y customtkinter
 
 ### agregar datos
 ![captura de funcionamiento de la version de consola](agregar_datos/assets/img/version_consola_agregar_datos.jpg)
