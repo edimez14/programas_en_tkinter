@@ -26,7 +26,7 @@ def imprimir_menu():
 
 
 def agregar_registro():
-	print('               agregar')
+    print('               agregar')
     nombre = input('nombre: ')
     frutas.append(nombre)
     print('registro agregado con exito')
